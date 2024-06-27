@@ -197,9 +197,6 @@ padding: 1.9rem;
 .text p{
  padding-top: 1.9rem;
 }
-
-
-
 /* Minhas habilidades*/
 .areas h1{
     text-align: center;
@@ -585,11 +582,13 @@ border-radius: 20px;
 
 }
 
-
-
-
-
-
+/*rodapé do site*/
+.rodape{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
 
 
 
